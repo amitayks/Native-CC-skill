@@ -1,0 +1,46 @@
+name: native-app-builder
+description: Comprehensive guide for building professional native applications with Telegram-level polish across iOS, Android, macOS, Windows, and Linux. Includes advanced animation systems, architecture patterns, performance optimization, and React Native native integration. Use when building native apps that require exceptional animation quality, complex architectures, or hybrid RN+native implementations.
+version: 1.0.0
+author: Claude
+license: MIT
+platforms:
+  - iOS
+  - Android
+  - macOS
+  - Windows
+  - Linux
+  - React Native
+categories:
+  - Mobile Development
+  - Desktop Development
+  - Animation
+  - Performance
+  - Architecture
+tags:
+  - native-development
+  - ios
+  - android
+  - animations
+  - performance-optimization
+  - react-native
+  - architecture-patterns
+  - telegram-quality
+  - cross-platform
+  - swiftui
+  - jetpack-compose
+keywords:
+  - native apps
+  - smooth animations
+  - 60fps
+  - 120fps
+  - spring animations
+  - MVVM
+  - clean architecture
+  - performance profiling
+  - native modules
+  - turbomodules
+references:
+  - SKILL.md
+  - reference/animation-patterns.md
+  - reference/profiling.md
+  - reference/rn-native-integration.md
